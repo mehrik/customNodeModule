@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px auto;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+form {
+    width: 360px;
+    font-size: 1em;
+}
+label {
+    display: block;
+    text-align: right;
+    margin: 10px;
+}
+input, textarea {
+    width: 50%;
+    vertical-align: center;
+}
+button {
+    padding: 3px 5px;
+    border-style: none;
+    border-radius: 3px;
+    font-weight: bold;   
+}
